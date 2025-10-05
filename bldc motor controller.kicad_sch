@@ -4889,16 +4889,6 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 100.33) (xy 261.62 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12e1c1b3-dd57-4118-a000-405fe9b8078a")
-	)
-	(wire
-		(pts
 			(xy 74.93 143.51) (xy 74.93 135.89)
 		)
 		(stroke
@@ -5036,6 +5026,16 @@
 			(type default)
 		)
 		(uuid "2e84b9a3-e571-41f8-8670-acd04cdd2da4")
+	)
+	(wire
+		(pts
+			(xy 261.62 97.79) (xy 261.62 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fb6d5ad-951d-4880-b97e-967d82b43525")
 	)
 	(wire
 		(pts
@@ -6869,7 +6869,7 @@
 	)
 	(global_label "PHASE-B"
 		(shape input)
-		(at 261.62 137.16 90)
+		(at 259.08 137.16 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6879,7 +6879,7 @@
 		)
 		(uuid "88763e2b-7fd5-48fc-8bd7-1d833df4ee58")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 261.62 125.2848 90)
+			(at 259.08 125.2848 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7573,7 +7573,7 @@
 	)
 	(global_label "PHASE-A"
 		(shape input)
-		(at 259.08 137.16 90)
+		(at 261.62 137.16 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7583,7 +7583,7 @@
 		)
 		(uuid "fdfcb78c-2abb-43e1-a901-70e872a4f50b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 259.08 125.4662 90)
+			(at 261.62 125.4662 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8893,7 +8893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
 			(at 74.93 146.05 0)
 			(effects
 				(font
@@ -10008,7 +10008,7 @@
 				)
 			)
 		)
-		(property "Footprint" "bldc-motor-footprints:CONN-SMD_SM02B-GHS-TB-LF-SN"
+		(property "Footprint" "Connector_JST:JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical"
 			(at 126.746 136.906 0)
 			(effects
 				(font
@@ -10783,7 +10783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "bldc-motor-footprints:CONN-SMD_4P-P1.25_SM04B-GHS-TB-LF-SN"
+		(property "Footprint" "Connector_JST:JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical"
 			(at 204.724 172.466 0)
 			(effects
 				(font
@@ -11945,7 +11945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 229.87 142.24 0)
 			(effects
 				(font
