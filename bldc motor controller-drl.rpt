@@ -1,0 +1,26 @@
+Drill report for bldc motor controller.kicad_pcb
+Created on 2025-10-05T00:25:53-0400
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'bldc motor controller-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (55 holes)
+    T2  1.000mm  0.0394"  (5 holes)
+    T3  2.200mm  0.0866"  (2 holes)
+
+    Total plated holes count 62
+
+
+Drill file 'bldc motor controller-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
