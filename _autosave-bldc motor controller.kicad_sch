@@ -4879,6 +4879,10 @@
 		(uuid "41648a1f-bcd9-46dd-bc2b-9a1dc7061a4c")
 	)
 	(no_connect
+		(at 148.59 72.39)
+		(uuid "522d3db2-a0f8-40df-9314-86ec281a79fc")
+	)
+	(no_connect
 		(at 64.77 140.97)
 		(uuid "60aef382-79bf-4021-83cd-dfb5991bef31")
 	)
@@ -4903,12 +4907,28 @@
 		(uuid "a9be1275-fbc4-4bf6-a104-db13035d731e")
 	)
 	(no_connect
+		(at 148.59 82.55)
+		(uuid "aa5e32e7-722f-453b-810e-10d00cef66b6")
+	)
+	(no_connect
+		(at 72.39 46.99)
+		(uuid "cc035cce-596e-4cd6-9718-6e7f748c776c")
+	)
+	(no_connect
 		(at 41.91 128.27)
 		(uuid "de8d49af-d3ff-48bc-ad55-54c099ed211f")
 	)
 	(no_connect
+		(at 148.59 69.85)
+		(uuid "e6c69059-060d-43ae-981b-6bae17ddf490")
+	)
+	(no_connect
 		(at 41.91 125.73)
 		(uuid "f3fa0743-85d7-4a59-83e5-49ef0e87345c")
+	)
+	(no_connect
+		(at 72.39 54.61)
+		(uuid "f9f0a790-08a0-48f7-8339-28428803c509")
 	)
 	(wire
 		(pts
@@ -8654,7 +8674,7 @@
 		(dnp no)
 		(uuid "152d9eb3-3c94-410f-bf6a-b419362ccbe7")
 		(property "Reference" "C22"
-			(at 148.082 47.498 90)
+			(at 148.844 46.482 90)
 			(effects
 				(font
 					(size 1.27 1.27)
