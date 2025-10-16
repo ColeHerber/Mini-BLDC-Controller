@@ -6,7 +6,7 @@
 	(property "Reference" "U?"
 		(at -0.39975 -4.0025 0)
 		(layer "F.SilkS")
-		(uuid "4390215f-48dc-4843-88cd-1122ec087938")
+		(uuid "4fd73f18-5cd3-4d9c-b8d9-5d77f5733fc7")
 		(effects
 			(font
 				(size 1 1)
@@ -17,7 +17,7 @@
 	(property "Value" "VQFN-28_L6.0-W5.0-P0.50-TL-EP4.0"
 		(at -0.39975 4.0025 0)
 		(layer "F.Fab")
-		(uuid "372c4a32-663f-41ab-a15a-e1918a9eea6e")
+		(uuid "be3183ba-1f71-404d-bd08-ce899052e7fd")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "97b87963-e19a-4aad-a9dd-d02bd2c24888")
+		(uuid "468de2d3-35fe-4caa-8364-bb02dd2e32af")
 		(effects
 			(font
 				(size 1 1)
@@ -41,7 +41,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ba1081d1-adbd-4230-a94d-cdd8654e3a10")
+		(uuid "d05fc220-85e8-4f86-8ef4-38ce92c2611e")
 		(effects
 			(font
 				(size 1 1)
@@ -817,4 +817,15 @@
 		(uuid "20f0eb08-2407-4511-a138-08f49fc861d4")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d models/NLG0028B.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

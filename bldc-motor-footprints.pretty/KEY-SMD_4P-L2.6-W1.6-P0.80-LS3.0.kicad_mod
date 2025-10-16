@@ -210,4 +210,15 @@
 		(uuid "68571de3-983f-49df-a518-ba03048870be")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d models/SKTAACE010.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

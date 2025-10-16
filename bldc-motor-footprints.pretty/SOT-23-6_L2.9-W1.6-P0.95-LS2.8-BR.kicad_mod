@@ -349,7 +349,7 @@
 		(uuid "d782e31e-102d-4865-ad12-4c4b37466cd0")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step"
+	(model "${KIPRJMOD}/3d models/LMR51610XDBVR.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -357,7 +357,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -180)
+			(xyz -90 -0 -180)
 		)
 	)
 )

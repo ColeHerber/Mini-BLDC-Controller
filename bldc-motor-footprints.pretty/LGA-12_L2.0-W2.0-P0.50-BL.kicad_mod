@@ -421,4 +421,15 @@
 		(uuid "7364d0ad-56f2-47b2-ae40-937565459d14")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d models/SON_03AGRTR_STM.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
 )
