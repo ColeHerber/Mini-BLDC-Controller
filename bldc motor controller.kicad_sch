@@ -11607,9 +11607,9 @@
 		(at 251.46 144.78 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "716f2577-b665-4307-bf16-31eb091b65f8")
 		(property "Reference" "J1"
