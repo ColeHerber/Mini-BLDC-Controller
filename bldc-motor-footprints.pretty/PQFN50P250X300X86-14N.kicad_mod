@@ -445,4 +445,15 @@
 		(uuid "b0ba5193-b3c2-4ee1-9629-7923b6c4cc84")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/imports/ISM330DHCXTR/ISM330DHCXTR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

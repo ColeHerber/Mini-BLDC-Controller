@@ -269,4 +269,15 @@
 		(uuid "eb0e5737-29bc-40fb-a730-40e0d2fa8a7f")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/imports/LIS2MDLTR/LIS2MDLTR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
 )
