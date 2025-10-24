@@ -1,4 +1,4 @@
-26662119074314224
+26663880352144332
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106266,6 +106266,13 @@ LGA-12_L2.0-W2.0-P0.50-BL
 0
 12
 12
+bldc-motor-footprints
+LGA-14L_STM
+
+LSM6DSV16XTR 
+0
+14
+14
 bldc-motor-footprints
 PQFN50P200X200X70-12N
 
