@@ -8912,7 +8912,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10kOhm"
+		(property "Value" "10k"
 			(at 105.41 38.0999 0)
 			(effects
 				(font
@@ -12608,7 +12608,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "716f2577-b665-4307-bf16-31eb091b65f8")
 		(property "Reference" "J1"
@@ -14316,7 +14316,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10kOhm"
+		(property "Value" "10k"
 			(at 132.08 38.0999 0)
 			(effects
 				(font
@@ -16942,7 +16942,7 @@
 		)
 		(pin "8"
 			(uuid "7088feed-254b-4fb9-a738-1fbf8e0df440")
-			(alternate "LPUART1_RX")
+			(alternate "USART2_RX")
 		)
 		(pin "13"
 			(uuid "ff9b9952-afff-4b0c-8a92-0160e0c35eb2")
@@ -17042,7 +17042,7 @@
 		)
 		(pin "7"
 			(uuid "9cedf282-9689-45c9-910a-73e5ea8baf13")
-			(alternate "LPUART1_TX")
+			(alternate "USART2_TX")
 		)
 		(pin "18"
 			(uuid "5dc9a329-b792-4585-bdd3-3cb042419f77")
